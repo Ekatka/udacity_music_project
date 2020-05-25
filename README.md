@@ -16,7 +16,7 @@ The first dataset is a subset of real data from the Million Song Dataset. Each f
 
 The second dataset consists of log files in JSON format based on the songs in the dataset above. These simulate activity logs from a music streaming app based on specified configurations.
 
-![Example of log data](https://r766469c826263xjupyterllyjhwqkl.udacity-student-workspaces.com/lab/tree/log-data.png)
+![Example of log data](log-data.png)
 
 ## Schema for Song Play Analysis
 
